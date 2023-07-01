@@ -1,6 +1,7 @@
 {
   "name": "termichat",
   "version": "1.0.0",
+  "type": "module",
   "description": "a simple ai chatbot in the terminal",
   "main": "index.js",
   "scripts": {

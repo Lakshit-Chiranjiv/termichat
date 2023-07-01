@@ -8,5 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lakshit Chiranjiv Sagar",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "openai": "^3.3.0",
+    "readline-sync": "^1.4.10"
+  }
 }
